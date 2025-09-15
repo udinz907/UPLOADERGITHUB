@@ -1,0 +1,12 @@
+{
+  "name": "fr3-uploader-github",
+  "version": "1.0.0",
+  "description": "FR3 Uploader GitHub free",
+  "main": "app.js",
+  "scripts": {
+    "start": "echo 'Open index.html in browser'"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}
